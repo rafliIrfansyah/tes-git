@@ -1,1 +1,0 @@
-print('ugm nih bos')
